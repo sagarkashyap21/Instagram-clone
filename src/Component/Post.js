@@ -20,8 +20,8 @@ export default function Post() {
                         </div>
                         <p>{val.title}</p>
                     </div>
-                    <div className="">
-                        <i class=" fa fa-solid fa-ellipsis-vertical"></i>
+                    <div className="" >
+                        <i  class=" fa fa-solid fa-ellipsis-vertical"></i>
                     </div>
                 </div>
                 {/* <hr /> */}

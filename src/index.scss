@@ -66,7 +66,7 @@ width: 30px;
 .status{
     // border: 2px solid red;
     display: flex;
-    height:18%;
+    height:14%;
     overflow: hidden;
     overflow-x: auto;
     &::-webkit-scrollbar{
@@ -107,6 +107,11 @@ height: 60px;
 .first{
 // border: 2px solid orange;
 display: flex;
+justify-content: space-between;
+& div{
+// border: 2px solid black;
+
+}
 // justify-content: space-be;
 & .statusbar{
     // border: 2px solid black;
@@ -115,6 +120,7 @@ display: flex;
     // align-items: center;
     // justify-content: center;
     & div{
+        // border: 2px solid black;
         & img{
             height: 30px;
             width: 30px;
