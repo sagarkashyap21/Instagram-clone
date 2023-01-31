@@ -221,13 +221,16 @@ justify-content: space-between;
 @media screen and (max-width:"740px") {
     body{
 // background-color: red;
+// height: 100vh;
     }
     
     .container{
         width: 100%;
-        margin-left: -120px;
+        height: 100%;
+        margin-left: -125px;
+        margin-top: -75px;
     }
     .status{
-        height: 15%;
+        height: 18%;
     }
 }
