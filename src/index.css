@@ -8,6 +8,7 @@
 .container {
   border: 1px solid lightgray;
   border-radius: 10px;
+  font-family: cursive;
   width: 30%;
   position: absolute;
   left: 35%;
