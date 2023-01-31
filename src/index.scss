@@ -196,6 +196,11 @@ justify-content: space-between;
         height: 30px;
         width: 30px;
     }
+    & #likebtn{
+        // color: red;
+        position: relative;
+        top: 8px;
+    }
     
 }
     }
@@ -246,9 +251,9 @@ justify-content: space-between;
         margin-left: -9px;
     }
 
-    .third #likebtn{
-        // color: red;
-        position: relative;
-        top: 5px;
-    }
+    // .third #likebtn{
+    //     // color: red;
+    //     position: relative;
+    //     top: 5px;
+    // }
 }
